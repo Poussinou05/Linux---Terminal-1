@@ -1,16 +1,3 @@
-https://asciinema.org/a/KBTad4E5ZpFB7sZ4oYpx3L3qE
-wilder@wilder-ThinkPad-T440p:~$ ping
-Usage: ping [-aAbBdDfhLnOqrRUvV64] [-c count] [-i interval] [-I interface]
-            [-m mark] [-M pmtudisc_option] [-l preload] [-p pattern] [-Q tos]
-            [-s packetsize] [-S sndbuf] [-t ttl] [-T timestamp_option]
-            [-w deadline] [-W timeout] [hop1 ...] destination
-Usage: ping -6 [-aAbBdDfhLnOqrRUvV] [-c count] [-i interval] [-I interface]
-             [-l preload] [-m mark] [-M pmtudisc_option]
-             [-N nodeinfo_option] [-p pattern] [-Q tclass] [-s packetsize]
-             [-S sndbuf] [-t ttl] [-T timestamp_option] [-w deadline]
-             [-W timeout] destination
-wilder@wilder-ThinkPad-T440p:~$ clear
-
 wilder@wilder-ThinkPad-T440p:~$ ls
 bonjour.sh  Documents         Images   Musique  Téléchargements
 Bureau      examples.desktop  Modèles  Public   Vidéos
